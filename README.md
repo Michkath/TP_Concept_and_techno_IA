@@ -5,7 +5,7 @@
 
 
 > **Note :** Ce projet est présenté sous forme de Notebook Jupyter.  
-> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Michkath/TP_Concept_and_techno_IA/blob/main/exploration_tp-checkpoint.ipynb)
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Michkath/TP_Concept_and_techno_IA/blob/main/Home_Credit_Risk_Analysis.ipynb)
 
 ## 📄 Contexte du Projet
 De nombreuses personnes peinent à obtenir des prêts bancaires en raison d'antécédents de crédit insuffisants ou inexistants. **Home Credit** cherche à élargir l'inclusion financière en offrant une expérience d'emprunt positive et sûre à cette population non bancarisée.
