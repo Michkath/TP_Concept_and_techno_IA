@@ -49,19 +49,5 @@ Mon analyse dans le notebook suit les étapes suivantes :
 * **Facteurs déterminants :** L'analyse a révélé que les variables les plus influentes sur le risque de défaut sont [Variable A], [Variable B] et [Variable C].
 
 
-## 🚀 Comment exécuter ce projet ?
-1.  Cloner le dépôt :
-    ```bash
-    git clone [https://github.com/michkath-aboudou/NOM_DU_REPO.git](https://github.com/michkath-aboudou/NOM_DU_REPO.git)
-    ```
-2.  Installer les dépendances :
-    ```bash
-    pip install pandas numpy matplotlib seaborn scikit-learn
-    ```
-3.  Lancer le notebook :
-    ```bash
-    jupyter notebook NOM_DU_FICHIER.ipynb
-    ```
-
 ---
 *Projet réalisé par [Michkath ABOUDOU](https://www.linkedin.com/in/michkath-aboudou/)*
